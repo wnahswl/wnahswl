@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=6994CDEE&text=Welcome%to%My%GitHub!!&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height180)
+
 
 <!--
 **wnahswl/wnahswl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&text=Welcome%to%My%GitHub!!)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnahswl&show_icons=true&theme=radical)
 

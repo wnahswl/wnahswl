@@ -1,13 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ec5c08,100:f73e26&FontColor=41544c&text=Welcome+to+My+GitHub!!&&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 
-<!--
-**wnahswl/wnahswl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 헤더 스타일 -->
 
+<h1 align="center"; color="#ffd33d">안녕하세요! 신입 개발자 전병건입니다. 🖐</h1>
 
---> 현재 수정 중 입니다! 07.09 ~~ ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnahswl&show_icons=true&theme=radical)
+
+<div>
+  <ul>
+  <li><h2>학력</h2></li>
+    <li><h4>2023.08 경일대학교 졸업 (컴퓨터공학과)</h4></li>
+    <li><h4>2023.07 ~ 2024.01 부산대학교 풀스택 웹 개발자 양성과정 수료</h4></li>
+  </ul>
+</div>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <h2>사용해본 기술 스택</h2>

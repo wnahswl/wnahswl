@@ -9,3 +9,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnahswl&show_icons=true&theme=radical)
 
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <h2>사용해본 기술 스택</h2>
+  <div style="display: flex; justify-content: center;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  </div>
+</div>
+
+
+111111
+

@@ -3,11 +3,17 @@
 
 <!-- 헤더 스타일 -->
 
+
+</br>
+</br>
 <h1 align="center"; color="#ffd33d">안녕하세요! 신입 개발자 전병건입니다. 🖐</h1>
 
+</br>
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnahswl&show_icons=true&theme=radical)
 
+</br>
 <div>
   <ul>
   <li><h2>학력</h2></li>

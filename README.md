@@ -23,6 +23,9 @@
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
+
+  </br></br>
+
   <h2>사용해본 기술 스택</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 

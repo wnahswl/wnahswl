@@ -4,23 +4,7 @@
 <!-- 헤더 스타일 -->
 
 
-</br>
-</br>
-<h1 align="center"; color="#ffd33d">안녕하세요! 신입 개발자 전병건입니다. 🖐</h1>
 
-</br>
-</br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnahswl&show_icons=true&theme=radical)
-
-</br>
-<div>
-  <ul>
-  <li><h2>학력</h2></li>
-    <li><h4>2023.08 경일대학교 졸업 (컴퓨터공학과)</h4></li>
-    <li><h4>2023.07 ~ 2024.01 부산대학교 풀스택 웹 개발자 양성과정 수료</h4></li>
-  </ul>
-</div>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
